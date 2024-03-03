@@ -6,5 +6,5 @@ A collection of EVE utilities
 - EVE overlays
 
 ## Tools
-- (punchthrough)[https://github.com/EVE-Toolkit/punchthrough]: an overlay for tracking wormhole chains
-- (wormholer)[https://github.com/EVE-Toolkit/wormholer]: a discord bot for wormhole corps
+- [punchthrough](https://github.com/EVE-Toolkit/punchthrough): an overlay for tracking wormhole chains
+- [wormholer](https://github.com/EVE-Toolkit/wormholer): a discord bot for wormhole corps
